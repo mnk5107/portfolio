@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  font-size: 2rem;
+}
+table {
+  margin: 0 auto;
+}
+h2 {
+  font-size: 1.5rem;
+}
+button {
+  margin: 0 10px;
+}
